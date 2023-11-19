@@ -1,10 +1,3 @@
-/*
- * ultrasonic.h
- *
- *  Created on: Oct 15, 2023
- *      Author: hp
- */
-
 #ifndef ULTRASONIC_H_
 #define ULTRASONIC_H_
 
