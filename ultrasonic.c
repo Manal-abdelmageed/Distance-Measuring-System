@@ -1,9 +1,4 @@
-/*
- * ultrasonic.c
- *
- *  Created on: Oct 15, 2023
- *      Author: hp
- */
+
 #include "gpio.h"
 #include "icu.h"
 #include "std_types.h"
