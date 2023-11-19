@@ -1,15 +1,3 @@
- /******************************************************************************
- *
- * Module: ICU
- *
- * File Name: icu.c
- *
- * Description: Source file for the AVR ICU driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
-
 #include "icu.h"
 #include "common_macros.h" /* To use the macros like SET_BIT */
 #include <avr/io.h> /* To use ICU/Timer1 Registers */
