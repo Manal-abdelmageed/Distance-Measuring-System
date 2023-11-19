@@ -1,15 +1,3 @@
- /******************************************************************************
- *
- * Module: ICU
- *
- * File Name: icu.h
- *
- * Description: Header file for the AVR ICU driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
-
 #ifndef ICU_H_
 #define ICU_H_
 
