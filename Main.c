@@ -1,9 +1,3 @@
-/*
- * Mini_Project4.c
- *
- *  Created on: Oct 19, 2023
- *      Author: hp
- */
 #include "icu.h"
 #include "lcd.h"
 #include "ultrasonic.h"
